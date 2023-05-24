@@ -15,11 +15,14 @@ The mouse pad has the following modes:
 The speed of the mouse pad can be adjusted through sliders.
 
 ## Code
+
 The jam1.js contains javascript code for WebGL setup and mousepad rendering logic.
+
+View explaination.html for detailed description of the code.
 
 ## Run 
 
-Open jam1.html to view the mousepad. 
+Open jam1.html in Code to view the mousepad. 
 
 ## Screens
 
