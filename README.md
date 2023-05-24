@@ -24,10 +24,6 @@ View explaination.html for detailed description of the code.
 
 Open jam1.html in Code to view the mousepad. 
 
-## Screens
-
-Open snapshots directory to view screenshots.
-
 ## Implementation
 
 API Renderer: WebGL(JavaScript) 
@@ -35,3 +31,7 @@ API Renderer: WebGL(JavaScript)
 ## Requirenments:
 
 Latest browser(HTML5)
+
+## Screens
+
+![Alt text](/images/image.PNG "Mousepad")
